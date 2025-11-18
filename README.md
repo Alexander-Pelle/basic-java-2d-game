@@ -2,6 +2,9 @@
 
 A basic 2D tile-based game built with Java Swing where you race against an intelligent AI opponent (Traveler) to collect coins before time runs out, while avoiding randomly moving enemies.
 
+## Demo 
+![Game Demo](videoDemo/demo.gif)
+
 ## Game Overview
 
 This is a real-time strategy game where:
